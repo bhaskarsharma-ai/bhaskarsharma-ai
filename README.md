@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Bhaskar Sharma 👋
 
-<!--
-**bhaskarsharma-ai/bhaskarsharma-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Learner | Aspiring Developer
 
-Here are some ideas to get you started:
+I'm currently learning Python and building my programming fundamentals step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+🐍 Python
+💡 Programming Fundamentals
+🧠 Problem Solving
+🔧 Git & GitHub
+🎯 My Goal
+
+To become a skilled developer by learning consistently, building projects, and improving every day.
+
+📚 My Learning Journey
+
+I'm at the beginning of my coding journey, so this profile will grow as I learn and build more projects.
+
+Learning → Building → Improving 🚀
+
+📫 Connect With Me
+GitHub: bhaskarsharma-ai
+Email: bs8912826@gmail.com
+
+⭐ Thanks for visiting my profile!
